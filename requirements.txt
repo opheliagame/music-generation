@@ -39,7 +39,7 @@ ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pygame==1.9.6
-Pygments==2.6.1
+Pygments==2.7.4
 pytoml==0.1.21
 PyYAML==5.3.1
 requests==2.23.0
